@@ -1,4 +1,4 @@
 # Firstproject-demo
 this is my first Git Repository
 <br>
-Author-janvi parmar
+Author-janvi parmar (janvi-project)
